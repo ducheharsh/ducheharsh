@@ -8,7 +8,6 @@
 - ✍️ I'm a technical writer
 - 🌱 I’m currently learning the very basics of computer science and some Java.
 - 💬 I'm documenting my journey of learnig form scratch
-- 📫 How to reach me:
 
 
 
