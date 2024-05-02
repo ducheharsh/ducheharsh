@@ -11,7 +11,7 @@
 
 ## My Coding Activity
 
-<figure><embed src="https://wakatime.com/share/@dc3a261d-bfe8-4899-b2fa-6a0022df0f4f/ed4f778f-717f-48d6-b1e8-dc7249449b37.svg"></embed></figure>
+<iframe src="https://wakatime.com/share/@dc3a261d-bfe8-4899-b2fa-6a0022df0f4f/ed4f778f-717f-48d6-b1e8-dc7249449b37.svg"></ifram>
 
 ## 🛠 Skills
 Python, Cybersecurity, learning JAVA and DSA 
