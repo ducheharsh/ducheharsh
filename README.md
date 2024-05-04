@@ -3,7 +3,7 @@
 
 ## 🚀 About Me
 
-19 | Tech enthusiast | Exploring Open Source culture and community 💻✨
+20 | Tech enthusiast | Exploring Open Source culture and community 💻✨
 - 🔭 I'm student and open source enthusiast.
 - ✍️ I'm a technical writer
 - 🌱 I’m currently learning the very basics of computer science and some Java.
