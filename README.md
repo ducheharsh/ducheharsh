@@ -14,11 +14,11 @@
  <!--START_SECTION:waka-->
 
 ```txt
-TypeScript    34 hrs 33 mins  ████████████████████████▒   96.72 %
+TypeScript    34 hrs 14 mins  ████████████████████████░   96.42 %
 Prisma        25 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.19 %
 TSConfig      12 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.56 %
+Image (svg)   11 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.54 %
 CSS           11 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.53 %
-JavaScript    6 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.31 %
 ```
 
 <!--END_SECTION:waka-->
