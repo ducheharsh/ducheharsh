@@ -3,7 +3,7 @@
 
 ## 🚀 About Me
 
-20 | Tech enthusiast | Exploring Open Source culture and community 💻✨
+21 | Tech enthusiast | Exploring Open Source culture and community 💻✨
 - 🔭 I'm student and open source enthusiast.
 - 🌱 I love developing minimalist frontends with robust backends
 - 👥 Hackathons are my jam
