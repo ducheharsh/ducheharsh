@@ -25,10 +25,8 @@ Currently exploring internship and early-career roles where I can learn fast and
  <!--START_SECTION:waka-->
 
 ```txt
-C++      18 mins         ████████████░░░░░░░░░░░░░   47.84 %
-Python   16 mins         ██████████▒░░░░░░░░░░░░░░   40.74 %
-Lua      3 mins          ██▒░░░░░░░░░░░░░░░░░░░░░░   08.83 %
-Go       1 min           ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.58 %
+Lua   3 mins          █████████████████▒░░░░░░░   69.44 %
+Go    1 min           ███████▓░░░░░░░░░░░░░░░░░   30.56 %
 ```
 
 <!--END_SECTION:waka-->
