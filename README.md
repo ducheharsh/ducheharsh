@@ -25,8 +25,7 @@ Currently exploring internship and early-career roles where I can learn fast and
  <!--START_SECTION:waka-->
 
 ```txt
-Lua   3 mins          █████████████████▒░░░░░░░   69.44 %
-Go    1 min           ███████▓░░░░░░░░░░░░░░░░░   30.56 %
+Go   1 min           █████████████████████████   100.00 %
 ```
 
 <!--END_SECTION:waka-->
