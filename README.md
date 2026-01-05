@@ -25,9 +25,10 @@ Currently exploring internship and early-career roles where I can learn fast and
  <!--START_SECTION:waka-->
 
 ```txt
-Bash     16 mins         █████████████████░░░░░░░░   68.13 %
-Python   6 mins          ██████▒░░░░░░░░░░░░░░░░░░   25.60 %
-Go       1 min           █▓░░░░░░░░░░░░░░░░░░░░░░░   06.26 %
+Bash         34 mins         █████████████▓░░░░░░░░░░░   54.70 %
+Python       27 mins         ███████████░░░░░░░░░░░░░░   43.70 %
+Go           0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.83 %
+TypeScript   0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.77 %
 ```
 
 <!--END_SECTION:waka-->
