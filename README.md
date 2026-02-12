@@ -25,11 +25,11 @@ Currently exploring internship and early-career roles where I can learn fast and
  <!--START_SECTION:waka-->
 
 ```txt
-TypeScript                 1 hr 1 min      █████████████░░░░░░░░░░░░   51.46 %
-Markdown                   48 mins         ██████████░░░░░░░░░░░░░░░   40.29 %
-INI                        3 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.91 %
-JSON                       3 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.89 %
-YAML                       0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.80 %
+TypeScript                 1 hr 1 min      ███████████▓░░░░░░░░░░░░░   46.49 %
+Markdown                   1 hr 1 min      ███████████▓░░░░░░░░░░░░░   46.05 %
+INI                        3 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.63 %
+JSON                       3 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.61 %
+YAML                       0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.72 %
 ```
 
 <!--END_SECTION:waka-->
