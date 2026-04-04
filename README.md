@@ -25,7 +25,10 @@ Currently exploring internship and early-career roles where I can learn fast and
  <!--START_SECTION:waka-->
 
 ```txt
-TypeScript   6 mins                █████████████████████████   100.00 %
+TypeScript   40 mins               ███████████████████▒░░░░░   77.99 %
+Other        9 mins                ████▒░░░░░░░░░░░░░░░░░░░░   17.57 %
+Markdown     2 mins                █░░░░░░░░░░░░░░░░░░░░░░░░   04.27 %
+SCSS         0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.16 %
 ```
 
 <!--END_SECTION:waka-->
