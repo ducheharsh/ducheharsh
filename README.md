@@ -25,11 +25,11 @@ Currently exploring internship and early-career roles where I can learn fast and
  <!--START_SECTION:waka-->
 
 ```txt
-TypeScript   7 hrs 26 mins         █████████▒░░░░░░░░░░░░░░░   36.82 %
-Other        6 hrs 10 mins         ███████▓░░░░░░░░░░░░░░░░░   30.62 %
-Bash         1 hr 58 mins          ██▒░░░░░░░░░░░░░░░░░░░░░░   09.78 %
-Python       1 hr 34 mins          ██░░░░░░░░░░░░░░░░░░░░░░░   07.81 %
-Markdown     1 hr 11 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.93 %
+Other        5 hrs 6 mins          ███████░░░░░░░░░░░░░░░░░░   27.95 %
+TypeScript   5 hrs 4 mins          ███████░░░░░░░░░░░░░░░░░░   27.79 %
+Bash         3 hrs 12 mins         ████▒░░░░░░░░░░░░░░░░░░░░   17.56 %
+Markdown     1 hr 24 mins          ██░░░░░░░░░░░░░░░░░░░░░░░   07.71 %
+Go           1 hr 13 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   06.70 %
 ```
 
 <!--END_SECTION:waka-->
