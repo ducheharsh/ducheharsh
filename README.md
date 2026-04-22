@@ -25,11 +25,11 @@ Currently exploring internship and early-career roles where I can learn fast and
  <!--START_SECTION:waka-->
 
 ```txt
-Bash         1 hr 57 mins          ███████████▒░░░░░░░░░░░░░   44.75 %
-Markdown     58 mins               █████▓░░░░░░░░░░░░░░░░░░░   22.24 %
-CSV          29 mins               ██▓░░░░░░░░░░░░░░░░░░░░░░   11.18 %
-Other        14 mins               █▒░░░░░░░░░░░░░░░░░░░░░░░   05.41 %
-Python       14 mins               █▒░░░░░░░░░░░░░░░░░░░░░░░   05.41 %
+Markdown     20 mins               █████▓░░░░░░░░░░░░░░░░░░░   23.12 %
+Bash         14 mins               ████░░░░░░░░░░░░░░░░░░░░░   16.43 %
+CMake        13 mins               ████░░░░░░░░░░░░░░░░░░░░░   15.65 %
+Python       12 mins               ███▓░░░░░░░░░░░░░░░░░░░░░   14.67 %
+CSV          11 mins               ███▒░░░░░░░░░░░░░░░░░░░░░   13.53 %
 ```
 
 <!--END_SECTION:waka-->
