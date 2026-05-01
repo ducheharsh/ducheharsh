@@ -25,11 +25,7 @@ Currently exploring internship and early-career roles where I can learn fast and
  <!--START_SECTION:waka-->
 
 ```txt
-Bash       1 hr 19 mins          █████████████▒░░░░░░░░░░░   52.73 %
-XML        41 mins               ███████░░░░░░░░░░░░░░░░░░   27.77 %
-Markdown   28 mins               ████▓░░░░░░░░░░░░░░░░░░░░   18.86 %
-systemd    0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.40 %
-YAML       0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.21 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
