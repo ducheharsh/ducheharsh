@@ -25,7 +25,8 @@ Currently exploring internship and early-career roles where I can learn fast and
  <!--START_SECTION:waka-->
 
 ```txt
-No activity tracked
+TypeScript   4 mins                ███████████████████▒░░░░░   77.34 %
+YAML         1 min                 █████▓░░░░░░░░░░░░░░░░░░░   22.66 %
 ```
 
 <!--END_SECTION:waka-->
