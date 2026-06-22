@@ -25,11 +25,11 @@ Currently exploring internship and early-career roles where I can learn fast and
  <!--START_SECTION:waka-->
 
 ```txt
-Python     1 hr 30 mins          ████████████████▒░░░░░░░░   64.74 %
-Markdown   35 mins               ██████▒░░░░░░░░░░░░░░░░░░   24.99 %
-Docker     12 mins               ██▒░░░░░░░░░░░░░░░░░░░░░░   08.89 %
-SQL        0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.50 %
-Text       0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.45 %
+Markdown   18 mins               ████████████▒░░░░░░░░░░░░   48.84 %
+Text       8 mins                █████▒░░░░░░░░░░░░░░░░░░░   21.81 %
+Bash       7 mins                ████▓░░░░░░░░░░░░░░░░░░░░   19.19 %
+Python     3 mins                ██▒░░░░░░░░░░░░░░░░░░░░░░   09.92 %
+YAML       0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.24 %
 ```
 
 <!--END_SECTION:waka-->
