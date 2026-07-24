@@ -25,11 +25,11 @@ Currently exploring internship and early-career roles where I can learn fast and
  <!--START_SECTION:waka-->
 
 ```txt
-Markdown     6 hrs 27 mins         ████████▓░░░░░░░░░░░░░░░░   35.23 %
-Python       4 hrs 1 min           █████▒░░░░░░░░░░░░░░░░░░░   21.92 %
-YAML         2 hrs 36 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   14.21 %
-TypeScript   2 hrs 34 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   14.03 %
-Bash         1 hr 23 mins          ██░░░░░░░░░░░░░░░░░░░░░░░   07.60 %
+YAML         3 hrs 47 mins         ██████▒░░░░░░░░░░░░░░░░░░   25.09 %
+TypeScript   3 hrs 33 mins         ██████░░░░░░░░░░░░░░░░░░░   23.50 %
+Markdown     3 hrs 24 mins         █████▓░░░░░░░░░░░░░░░░░░░   22.56 %
+Python       2 hrs 15 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   14.92 %
+Bash         1 hr 26 mins          ██▒░░░░░░░░░░░░░░░░░░░░░░   09.55 %
 ```
 
 <!--END_SECTION:waka-->
